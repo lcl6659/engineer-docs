@@ -72,7 +72,7 @@ export default defineConfig({
         },
         {
           text: '基础问答',
-          collapsed: true,
+          collapsed: false,
           items: [
             {
               text: 'Q1：从输入 URL 到页面展示',
@@ -222,7 +222,7 @@ export default defineConfig({
         },
         {
           text: '基础与类组件',
-          collapsed: true,
+          collapsed: false,
           items: [
             {
               text: 'Q1：React 的核心理念与特点',
